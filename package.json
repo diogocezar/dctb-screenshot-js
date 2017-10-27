@@ -1,0 +1,11 @@
+{
+  "name": "dctb-screenshot-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:diogocezar/dctb-screenshot-js.git",
+  "author": "Diogo Cezar <diogo@diogocezar.com>",
+  "license": "MIT",
+  "dependencies": {
+    "phantom": "^4.0.5"
+  }
+}
